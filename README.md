@@ -1,6 +1,6 @@
-# Code for analysis in "Timing and patterns of emergence in Antarctic sea ice and ecosystems
+# Code for analysis in "Emergent climate change signals within Antarctic sea ice and associated ecosystems"
 
-Processing and plotting scripts for manuscript on Antarctic ecosystem Time of Emergence project
+Processing and plotting scripts for manuscript on Antarctic ecosystem Time of Emergence project, in *Nature Climate Change*
 
 ## Directories within this repository folder:
 
